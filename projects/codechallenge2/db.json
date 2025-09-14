@@ -1,12 +1,13 @@
 {
 "characters": [
-   {"id": 2,"name": "Mr.Cute", "image":
+   {"id": 1,"name": "Mr.Cute", "image":
    "https://imgur.com/1.jpg","votes": 0},
 {"id": 2, "name": "Miss fuzzy", "image":
 "https://imgur.com/2.jpg","votes": 0},
-{"id": 3 "name": "Coco", "image":"https://imgur.com/3.jpg"
-, "votes": 0}
+{"id": 3, "name": "Coco", "image":
+"https://imgur.com/3.jpg", "votes":0}
 ]
 }
+
 
     
