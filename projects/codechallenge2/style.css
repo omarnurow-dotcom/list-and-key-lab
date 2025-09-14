@@ -1,0 +1,20 @@
+body{
+    font-family:Arial,sans-serif;
+    text-align: center;
+}
+#animaLlbar{
+dispaly: flex;
+gap:10px;
+justify-content: center;
+margin-bottom: 20px;
+}
+#animal-bar img {
+    width: 60px;
+    heigth: 60px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+#animal-info img{
+    width: 200px;
+    height: 200px;
+}
